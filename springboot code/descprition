@@ -1,0 +1,8 @@
+when you open the spring boot project follow these steps:
+1. you can open this code in vscode as well as sts
+  (i) In vs code you have to install some extension to run the code 
+  (ii) go to the extension section and search the spring boot and intsall starting 4 extension
+  (iii) you also have to install java 17 in you system
+2. after opening project  you have to change the "application.properties" file and edit the password, add the password of your database
+3. make sure the "jdbc:mysql://localhost:3306/pulsedata" has the endpoint of your data base
+4. now you can run the project
